@@ -1,12 +1,11 @@
 
 
 
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Hilda Encina</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="" target="blank">Hilda Encina</a></h1>
 
-<!-- GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HildaEncina/HildaEncina/main/und.gif" width="200px" alt="Programadora saludando" />
-</p>
+
+<img src="https://tenor.com/es-US/view/scaler-create-impact-coding-programming-chill-gif-24991316" width="300px" alt="Programadora saludando" />
+
 
 
 ### Analista de Sistemas | Desarrolladora Full Stack | Docente IT  
