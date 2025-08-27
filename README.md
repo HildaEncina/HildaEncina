@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HildaEncina/HildaEncina/main/escalador-crea-impacto.gif" width="300px" alt="Programadora saludando" />
+</p>
 
 
 
