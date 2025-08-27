@@ -14,7 +14,7 @@
 Soy **Analista de Sistemas** con experiencia como **Desarrolladora Full Stack Freelance** y **Docente en programación**.  
 Me apasiona el desarrollo web, la enseñanza, el aprendizaje continuo y crear soluciones tecnológicas que generen impacto.  
 
-📍 Ituzaingó, Buenos Aires  
+📍 Buenos Aires  
 📧 dev.encina.hilda@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/encina-hilda/)  
 
