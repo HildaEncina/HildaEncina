@@ -11,11 +11,6 @@
 ![Banner](https://raw.githubusercontent.com/HildaEncina/HildaEncina/main/banner.png)
 
 
-**Analista de Sistemas | Full Stack Developer**
-...
-
-
-
 ### Analista de Sistemas | Desarrolladora Full Stack | Docente IT  
 
 Soy **Analista de Sistemas** con experiencia como **Desarrolladora Full Stack Freelance** y **Docente en programación**.  
