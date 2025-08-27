@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm <a href="" target="blank">Hilda Encina</a></h1>
 
 
-<img src="https://tenor.com/es-US/view/scaler-create-impact-coding-programming-chill-gif-24991316" width="300px" alt="Programadora saludando" />
+
 
 
 
