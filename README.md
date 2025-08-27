@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HildaEncina/HildaEncina/main/escalador-crea-impacto.gif" width="300px" alt="Programadora saludando" />
-</p>
-
 
 
 <h1 align="center">Hi 👋, I'm <a href="" target="blank">Hilda Encina</a></h1>
