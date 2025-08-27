@@ -1,7 +1,4 @@
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HildaEncina/HildaEncina/main/programadora.gif" width="200px" alt="Programadora saludando" />
-</p>
+<img src="https://raw.githubusercontent.com/HildaEncina/HildaEncina/main/und.gif" width="200px" alt="Programadora saludando" />
 
 
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Hilda Encina</a></h1>
