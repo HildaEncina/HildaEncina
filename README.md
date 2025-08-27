@@ -1,14 +1,12 @@
+
 ![Banner](https://raw.githubusercontent.com/HildaEncina/HildaEncina/main/banner.png)
-![Programadora saludando](https://raw.githubusercontent.com/HildaEncina/HildaEncina/main/programadora.gif)
+
 <img src="https://raw.githubusercontent.com/HildaEncina/HildaEncina/main/programadora.gif" width="200px" alt="Programadora saludando" />
 
 
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Hilda Encina</a></h1>
-<!-- GIF o imagen animada -->
-<img src="https://raw.githubusercontent.com/HildaEncina/HildaEncina/main/programadora.gif" width="200px" alt="Hola, soy una programadora" />
 
-<!-- Banner que ya generamos antes -->
-![Banner](https://raw.githubusercontent.com/HildaEncina/HildaEncina/main/banner.png)
+
 
 
 ### Analista de Sistemas | Desarrolladora Full Stack | Docente IT  
