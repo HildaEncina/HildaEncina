@@ -22,7 +22,6 @@ Me apasiona el desarrollo web, la enseñanza, el aprendizaje continuo y crear so
 
 ## 🚀 Tecnologías & Herramientas
 
-## 🚀 Tecnologías & Herramientas
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=fff)
